@@ -140,9 +140,15 @@ Open [quality_dashboard.xlsx](dashboard/quality_dashboard.xlsx) in Excel. The fu
 
 ## Privacy and limitations
 
-The portfolio edition replaces tabular records with synthetic data, removes navigation macros and adapts the script and documentation. Internal hyperlinks replace VBA navigation. No financial gains, time savings or business outcomes are claimed without documented measurements.
+T### 🔒 Privacy and Confidentiality
 
-Structural checks do not fully certify the binary Power Pivot model. Public disclosure requires desktop Excel validation, confidentiality review and authorization to share the solution and code. See [privacy and data (Portuguese)](docs/privacy_and_data.md).
+The disclosure of this project for professional portfolio purposes was authorized by the management of the company where the solution was originally developed.
+
+To preserve corporate confidentiality, the original tabular records were replaced with a synthetic dataset containing 529 records, maintaining the dashboard's analytical structure and functionalities.
+
+This project is intended for demonstration and educational purposes.
+
+
 
 ## Author
 

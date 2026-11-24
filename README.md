@@ -140,11 +140,15 @@ Para visualizar os resultados, abra [quality_dashboard.xlsx](dashboard/quality_d
 
 ## Privacidade e limitações
 
-A versão de portfólio substitui os registros tabulares por dados sintéticos, remove as macros de navegação e adapta o código e a documentação. Os hiperlinks internos substituem a navegação por VBA. Não são apresentados ganhos financeiros, reduções de tempo ou resultados empresariais sem medições documentadas.
+### 🔒 Privacidade e confidencialidade
 
-A auditoria estrutural não certifica integralmente o conteúdo binário do Power Pivot. A divulgação pública depende da validação no Excel, da revisão de confidencialidade e da autorização para divulgar a solução e o código. Consulte [privacidade e dados](docs/privacy_and_data.md).
+A divulgação deste projeto para fins de portfólio profissional foi autorizada pela direção da empresa na qual a solução foi originalmente desenvolvida.
 
-## Autor
+Para preservar a confidencialidade empresarial, os registros tabulares originais foram substituídos por uma base de 529 registros sintéticos, mantendo a estrutura analítica e as funcionalidades do dashboard.
+
+O projeto possui finalidade demonstrativa e educacional.
+
+
 
 **Rafael Gaygher** — Data Analytics & Business Intelligence
 
